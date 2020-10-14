@@ -4,6 +4,7 @@ variable "naming_prefix"{
 }
 
 
+
 variable "resource_group_name"{
     type = string
     default = "learn-shared-rg"
