@@ -2,7 +2,6 @@ terraform{
     required_version = ">= 0.13.3"
 }
 
-
 provider "azurerm"{
     version = ">= 2.28.0"
     features {}
