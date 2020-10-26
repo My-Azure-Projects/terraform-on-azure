@@ -7,7 +7,6 @@ provider "azurerm"{
     features {}
 }
 
-
 resource "random_integer" "sa_num"{
     min = 10000
     max = 99999
